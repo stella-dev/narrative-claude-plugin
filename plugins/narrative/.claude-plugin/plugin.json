@@ -1,0 +1,7 @@
+{
+  "name": "narrative",
+  "version": "0.1.0",
+  "description": "会社のデザインの資料を AI に作らせる Narrative（makenarrative.com）とつなぎます。",
+  "author": { "name": "Narrative", "url": "https://makenarrative.com" },
+  "homepage": "https://makenarrative.com"
+}

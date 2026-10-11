@@ -1,0 +1,13 @@
+{
+  "name": "narrative",
+  "owner": { "name": "Narrative", "url": "https://makenarrative.com" },
+  "metadata": { "description": "Narrative の Claude Code プラグイン" },
+  "plugins": [
+    {
+      "name": "narrative",
+      "source": "./plugins/narrative",
+      "description": "会社のデザインの資料を AI に作らせる Narrative（makenarrative.com）とつなぎます。",
+      "homepage": "https://makenarrative.com"
+    }
+  ]
+}

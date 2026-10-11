@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "narrative": {
+      "type": "http",
+      "url": "${NARRATIVE_URL:-https://makenarrative.com}/mcp"
+    }
+  }
+}
